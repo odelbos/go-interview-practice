@@ -1,6 +1,7 @@
 # Scoreboard for challenge-17
 | Username   | Passed Tests | Total Tests |
 |------------|--------------|-------------|
+| Cpoing | 18 | 18 |
 | Gandook | 18 | 18 |
 | IBraveMonkey | 18 | 18 |
 | JackDalberg | 18 | 18 |
@@ -11,7 +12,10 @@
 | ZaharBorisenko | 18 | 18 |
 | ashwinipatankar | 18 | 18 |
 | cep-ter | 18 | 18 |
+| grozdovk | 18 | 18 |
+| jordanhimawan | 18 | 18 |
 | lanmanul | 18 | 18 |
+| longbui98 | 18 | 18 |
 | mick4711 | 18 | 18 |
 | odelbos | 18 | 18 |
 | skx | 18 | 18 |
