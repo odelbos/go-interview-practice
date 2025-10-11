@@ -84,6 +84,7 @@
 | kuzminprog | 6 | 6 |
 | lajosbnk | 6 | 6 |
 | lanmanul | 6 | 6 |
+| lesiona-z | 6 | 6 |
 | levwap | 6 | 6 |
 | lyb88999 | 6 | 6 |
 | malakagl | 6 | 6 |
