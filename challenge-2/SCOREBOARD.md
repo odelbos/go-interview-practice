@@ -75,6 +75,7 @@
 | kuzminprog | 7 | 7 |
 | lajosbnk | 7 | 7 |
 | lanmanul | 7 | 7 |
+| lesiona-z | 7 | 7 |
 | lyb88999 | 7 | 7 |
 | malakagl | 7 | 7 |
 | mczajk | 7 | 7 |
