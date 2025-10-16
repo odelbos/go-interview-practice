@@ -2,6 +2,7 @@
 | Username   | Passed Tests | Total Tests |
 |------------|--------------|-------------|
 | Ali-Fartoot | 35 | 35 |
+| Be1chenok | 35 | 35 |
 | BrianHuang813 | 35 | 35 |
 | Cpoing | 35 | 35 |
 | Gandook | 35 | 35 |
