@@ -94,8 +94,8 @@ Our most accomplished Go developers, ranked by number of challenges completed:
 | 6 | <img src="https://github.com/JackDalberg.png" width="24" height="24" style="border-radius: 50%;"><br/>**[JackDalberg](https://github.com/JackDalberg)** | **20**/30 | **66.7%** | Master | ✅✅✅✅✅✅✅✅⬜✅⬜⬜✅✅⬜<br/>⬜✅✅✅✅✅✅✅⬜⬜⬜✅⬜⬜✅ |
 | 7 | <img src="https://github.com/Cpoing.png" width="24" height="24" style="border-radius: 50%;"><br/>**[Cpoing](https://github.com/Cpoing)** | **17**/30 | **56.7%** | Expert | ✅✅✅✅⬜✅✅✅✅✅✅✅✅✅✅<br/>⬜✅✅⬜⬜✅⬜⬜⬜⬜⬜⬜⬜⬜⬜ |
 | 8 | <img src="https://github.com/ashwinipatankar.png" width="24" height="24" style="border-radius: 50%;"><br/>**[ashwinipatankar](https://github.com/ashwinipatankar)** ❤️ | **17**/30 | **56.7%** | Expert | ✅✅✅⬜✅✅✅⬜✅✅⬜⬜✅✅⬜<br/>⬜✅✅✅⬜⬜✅✅⬜⬜⬜✅⬜⬜✅ |
-| 9 | <img src="https://github.com/t4e1.png" width="24" height="24" style="border-radius: 50%;"><br/>**[t4e1](https://github.com/t4e1)** | **15**/30 | **50.0%** | Expert | ✅✅✅✅✅✅✅⬜⬜✅⬜⬜✅⬜⬜<br/>⬜✅✅✅⬜✅✅⬜⬜⬜⬜✅⬜⬜⬜ |
-| 10 | <img src="https://github.com/Hikitak.png" width="24" height="24" style="border-radius: 50%;"><br/>**[Hikitak](https://github.com/Hikitak)** | **14**/30 | **46.7%** | Advanced | ✅✅✅⬜✅✅⬜⬜⬜✅⬜⬜✅⬜⬜<br/>✅⬜✅✅⬜✅✅✅⬜⬜⬜⬜⬜⬜✅ |
+| 9 | <img src="https://github.com/RezaSi.png" width="24" height="24" style="border-radius: 50%;"><br/>**[RezaSi](https://github.com/RezaSi)** | **15**/30 | **50.0%** | Expert | ✅✅✅✅✅✅✅⬜⬜✅⬜⬜✅⬜⬜<br/>⬜✅✅✅⬜✅✅✅⬜⬜⬜⬜⬜⬜⬜ |
+| 10 | <img src="https://github.com/t4e1.png" width="24" height="24" style="border-radius: 50%;"><br/>**[t4e1](https://github.com/t4e1)** | **15**/30 | **50.0%** | Expert | ✅✅✅✅✅✅✅⬜⬜✅⬜⬜✅⬜⬜<br/>⬜✅✅✅⬜✅✅⬜⬜⬜⬜✅⬜⬜⬜ |
 
 <div align="center">
 
