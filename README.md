@@ -31,6 +31,34 @@ Our interactive platform is now live at **[app.gointerview.dev](https://app.goin
 
 ---
 
+## 🏢 Premium Business Sponsors
+
+*Thank you to our premium sponsors who make this project possible!*
+
+### 🥈 Silver Sponsors
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="250">
+        <a href="https://coderabbit.ai" target="_blank">
+          <img src="https://github.com/coderabbitai.png" alt="CodeRabbit" width="120" height="120" style="border-radius: 12px; border: 2px solid #e1e5e9;">
+        </a>
+        <br>
+        <strong><a href="https://coderabbit.ai" target="_blank">CodeRabbit</a></strong>
+        <br>
+        <em>AI-powered code reviews</em>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+*Interested in premium sponsorship? [Contact us](https://github.com/sponsors/RezaSi) to feature your company logo here and on our platform!*
+
+---
+
 ## Visual Overview
 
 ### Interactive Challenge Platform
@@ -449,21 +477,6 @@ We welcome contributions! You can contribute in several ways:
 4. Submit a pull request
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines on both challenge types.
-
-## 🏢 Premium Business Sponsors
-
-*Thank you to our premium sponsors who make this project possible!*
-
-<!-- 
-Premium sponsor logos will appear here when we have them. Format:
-<div align="center">
-<a href="https://company-website.com" target="_blank">
-<img src="https://company-logo-url.com/logo.png" alt="Company Name" height="60" style="margin: 0 20px;">
-</a>
-</div>
--->
-
-*Interested in premium sponsorship? [Contact us](https://github.com/sponsors/RezaSi) to feature your company logo here and on our platform!*
 
 ---
 
