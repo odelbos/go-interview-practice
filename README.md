@@ -31,7 +31,7 @@ Our interactive platform is now live at **[app.gointerview.dev](https://app.goin
 
 ---
 
-## 🏢 Premium Business Sponsors
+## 🏢 Premium Sponsors
 
 *Thank you to our premium sponsors who make this project possible!*
 
@@ -40,14 +40,11 @@ Our interactive platform is now live at **[app.gointerview.dev](https://app.goin
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="250">
+      <td align="center">
         <a href="https://coderabbit.ai" target="_blank">
-          <img src="https://github.com/coderabbitai.png" alt="CodeRabbit" width="120" height="120" style="border-radius: 12px; border: 2px solid #e1e5e9;">
+          <img src="https://github.com/coderabbitai.png" alt="CodeRabbit" width="80" height="80" style="border-radius: 20px; border: 2px solid #e1e5e9;">
         </a>
         <br>
-        <strong><a href="https://coderabbit.ai" target="_blank">CodeRabbit</a></strong>
-        <br>
-        <em>AI-powered code reviews</em>
       </td>
     </tr>
   </table>
