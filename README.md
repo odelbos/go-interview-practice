@@ -24,7 +24,7 @@ Welcome to the **Go Interview Practice** repository! Master Go programming and a
 Our interactive platform is now live at **[app.gointerview.dev](https://app.gointerview.dev/)** 🎉 Explore challenges, track your progress, and elevate your Go skills with AI-powered mentorship.
 
 <div align="center">
-  <a href="https://gointerview.dev/" target="_blank">
+  <a href="https://app.gointerview.dev/" target="_blank">
     <img src="https://img.shields.io/badge/Start%20Practicing-Now-blue?style=for-the-badge&logo=go" alt="Start Practicing Now">
   </a>
 </div>
@@ -53,9 +53,8 @@ Our interactive platform is now live at **[app.gointerview.dev](https://app.goin
   </table>
 </div>
 
----
 
-*Interested in premium sponsorship? [Contact us](https://github.com/sponsors/RezaSi) to feature your company logo here and on our platform!*
+###### Interested in premium sponsorship? [Contact us](https://github.com/sponsors/RezaSi) to feature your company logo here and on our platform!
 
 ---
 
