@@ -131,7 +131,7 @@ Master Go packages through hands-on challenges! Each package offers a structured
 | 7 | <img src="https://github.com/ashwinipatankar.png" width="24" height="24" style="border-radius: 50%;"><br/>**[ashwinipatankar](https://github.com/ashwinipatankar)** ❤️ | **3** | **1** pkg | 🚀 Package Intermediate | **cobra**: 3 |
 | 8 | <img src="https://github.com/GleeN987.png" width="24" height="24" style="border-radius: 50%;"><br/>**[GleeN987](https://github.com/GleeN987)** | **1** | **1** pkg | 🌱 Package Beginner | **gin**: 1 |
 | 9 | <img src="https://github.com/MarioPaez.png" width="24" height="24" style="border-radius: 50%;"><br/>**[MarioPaez](https://github.com/MarioPaez)** | **1** | **1** pkg | 🌱 Package Beginner | **gin**: 1 |
-| 10 | <img src="https://github.com/hudazaan.png" width="24" height="24" style="border-radius: 50%;"><br/>**[hudazaan](https://github.com/hudazaan)** | **1** | **1** pkg | 🌱 Package Beginner | **gin**: 1 |
+| 10 | <img src="https://github.com/awsl1110.png" width="24" height="24" style="border-radius: 50%;"><br/>**[awsl1110](https://github.com/awsl1110)** | **1** | **1** pkg | 🌱 Package Beginner | **gin**: 1 |
 
 <div align="center">
 
@@ -190,7 +190,7 @@ Master Go packages through hands-on challenges! Each package offers a structured
 ### 📊 Package Challenge Statistics
 
 - **Total Package Challenges Available**: 26
-- **Active Package Learners**: 11
+- **Active Package Learners**: 12
 - **Available Packages**: 6 (cobra, echo, fiber, gin, gorm, mongodb)
 
 - **Most Package Challenges Solved**: 17 by odelbos
