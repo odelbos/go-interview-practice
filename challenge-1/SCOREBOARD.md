@@ -115,6 +115,7 @@
 | q1ngy | 6 | 6 |
 | quangtran666 | 6 | 6 |
 | radish-miyazaki | 6 | 6 |
+| redstrike | 6 | 6 |
 | richcem | 6 | 6 |
 | rimuhamu | 6 | 6 |
 | rohit-jangra-dx | 6 | 6 |
