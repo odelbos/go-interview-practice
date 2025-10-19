@@ -2,6 +2,7 @@
 | Username   | Passed Tests | Total Tests |
 |------------|--------------|-------------|
 | 0xarash | 7 | 7 |
+| ADEMOLA200 | 7 | 7 |
 | AkifhanIlgaz | 7 | 7 |
 | Ali-Fartoot | 7 | 7 |
 | AliNazariii | 7 | 7 |
@@ -96,6 +97,7 @@
 | potapkin-pavel | 7 | 7 |
 | preetsinghmakkar | 7 | 7 |
 | rahim72 | 7 | 7 |
+| redstrike | 7 | 7 |
 | richcem | 7 | 7 |
 | rimuhamu | 7 | 7 |
 | setarehabhari | 7 | 7 |
