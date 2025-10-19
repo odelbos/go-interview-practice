@@ -31,30 +31,6 @@ Our interactive platform is now live at **[app.gointerview.dev](https://app.goin
 
 ---
 
-## 🏢 Premium Sponsors
-
-*Thank you to our premium sponsors who make this project possible!*
-
-### 🥈 Silver Sponsors
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://coderabbit.ai" target="_blank">
-          <img src="https://github.com/coderabbitai.png" alt="CodeRabbit" width="80" height="80" style="border-radius: 20px; border: 2px solid #e1e5e9;">
-        </a>
-        <br>
-      </td>
-    </tr>
-  </table>
-</div>
-
-
-###### Interested in premium sponsorship? [Contact us](https://github.com/sponsors/RezaSi) to feature your company logo here and on our platform!
-
----
-
 ## Visual Overview
 
 ### Interactive Challenge Platform
@@ -484,5 +460,30 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [![Stargazers over time](https://starchart.cc/RezaSi/go-interview-practice.svg?variant=adaptive)](https://starchart.cc/RezaSi/go-interview-practice)
 
 ---
+
+## 🏢 Premium Sponsors
+
+*Thank you to our premium sponsors who make this project possible!*
+
+### 🥈 Silver Sponsors
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://coderabbit.ai" target="_blank">
+          <img src="https://github.com/coderabbitai.png" alt="CodeRabbit" width="80" height="80" style="border-radius: 20px; border: 2px solid #e1e5e9;">
+        </a>
+        <br>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
+###### Interested in premium sponsorship? [Contact us](https://github.com/sponsors/RezaSi) to feature your company logo here and on our platform!
+
+---
+
 
 **Happy Coding!** 💻
