@@ -1,6 +1,7 @@
 # Scoreboard for challenge-3
 | Username   | Passed Tests | Total Tests |
 |------------|--------------|-------------|
+| ADEMOLA200 | 5 | 5 |
 | AkifhanIlgaz | 5 | 5 |
 | Ali-Fartoot | 5 | 5 |
 | AliNazariii | 5 | 5 |
