@@ -70,6 +70,7 @@
 | dhevv8 | 6 | 6 |
 | diyorich | 6 | 6 |
 | eksly | 6 | 6 |
+| fzzv | 6 | 6 |
 | gaba-bouliva | 6 | 6 |
 | globallstudent | 6 | 6 |
 | grozdovk | 6 | 6 |
@@ -94,6 +95,7 @@
 | labib99 | 6 | 6 |
 | lajosbnk | 6 | 6 |
 | lanmanul | 6 | 6 |
+| lawira | 6 | 6 |
 | lesiona-z | 6 | 6 |
 | levwap | 6 | 6 |
 | lyb88999 | 6 | 6 |
