@@ -95,7 +95,7 @@ Our most accomplished Go developers, ranked by number of challenges completed:
 | 7 | <img src="https://github.com/Ali-Fartoot.png" width="24" height="24" style="border-radius: 50%;"><br/>**[Ali-Fartoot](https://github.com/Ali-Fartoot)** | **19**/30 | **63.3%** | Expert | ✅✅✅✅✅✅✅✅⬜✅⬜⬜✅⬜⬜<br/>✅✅✅✅⬜✅✅✅⬜⬜⬜✅⬜⬜✅ |
 | 8 | <img src="https://github.com/Cpoing.png" width="24" height="24" style="border-radius: 50%;"><br/>**[Cpoing](https://github.com/Cpoing)** | **17**/30 | **56.7%** | Expert | ✅✅✅✅⬜✅✅✅✅✅✅✅✅✅✅<br/>⬜✅✅⬜⬜✅⬜⬜⬜⬜⬜⬜⬜⬜⬜ |
 | 9 | <img src="https://github.com/ashwinipatankar.png" width="24" height="24" style="border-radius: 50%;"><br/>**[ashwinipatankar](https://github.com/ashwinipatankar)** ❤️ | **17**/30 | **56.7%** | Expert | ✅✅✅⬜✅✅✅⬜✅✅⬜⬜✅✅⬜<br/>⬜✅✅✅⬜⬜✅✅⬜⬜⬜✅⬜⬜✅ |
-| 10 | <img src="https://github.com/RezaSi.png" width="24" height="24" style="border-radius: 50%;"><br/>**[RezaSi](https://github.com/RezaSi)** | **15**/30 | **50.0%** | Expert | ✅✅✅✅✅✅✅⬜⬜✅⬜⬜✅⬜⬜<br/>⬜✅✅✅⬜✅✅✅⬜⬜⬜⬜⬜⬜⬜ |
+| 10 | <img src="https://github.com/nzamulov.png" width="24" height="24" style="border-radius: 50%;"><br/>**[nzamulov](https://github.com/nzamulov)** | **16**/30 | **53.3%** | Expert | ⬜⬜⬜✅⬜⬜⬜✅⬜✅✅⬜✅⬜✅<br/>✅✅⬜✅⬜⬜⬜✅✅✅✅✅⬜✅✅ |
 
 <div align="center">
 
