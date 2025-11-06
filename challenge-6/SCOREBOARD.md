@@ -2,6 +2,7 @@
 | Username   | Passed Tests | Total Tests |
 |------------|--------------|-------------|
 | AkifhanIlgaz | 7 | 7 |
+| AlexO-85 | 7 | 7 |
 | Ali-Fartoot | 7 | 7 |
 | Ashutosh652 | 7 | 7 |
 | Be1chenok | 7 | 7 |
