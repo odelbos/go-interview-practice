@@ -306,6 +306,7 @@ Want to get started instantly without setting up anything locally? Use GitHub Co
 - All dependencies pre-installed
 - Works on any device with a browser
 
+<!--
 ### Option 3: Railway Deployment (One-Click Cloud Hosting)
 
 Deploy your own instance of the platform to the cloud with Railway!
@@ -325,8 +326,9 @@ Deploy your own instance of the platform to the cloud with Railway!
    - Add API key: [Get free Gemini key](https://makersuite.google.com/app/apikey)
 3. **Access Your Platform**: Railway provides instant public URL
 4. **Start Using**: Full platform with all challenges immediately available
+-->
 
-### Option 4: Command Line
+### Option 3: Command Line
 
 ```bash
 # 1. Fork the repository first (see step 1 above)
