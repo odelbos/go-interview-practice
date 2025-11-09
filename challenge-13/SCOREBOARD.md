@@ -6,6 +6,7 @@
 | Gandook | 15 | 15 |
 | Hikitak | 15 | 15 |
 | JackDalberg | 15 | 15 |
+| Johrespi | 15 | 15 |
 | KhaledMosaad | 15 | 15 |
 | PolinaSvet | 15 | 15 |
 | RezaSi | 15 | 15 |
