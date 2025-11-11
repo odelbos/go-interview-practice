@@ -83,6 +83,7 @@
 | jnandezp | 7 | 7 |
 | john-otienoh | 7 | 7 |
 | jordanhimawan | 7 | 7 |
+| kiramux | 7 | 7 |
 | korranat9 | 7 | 7 |
 | krmaxwell | 7 | 7 |
 | krypton-io | 7 | 7 |
