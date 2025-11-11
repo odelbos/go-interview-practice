@@ -8,6 +8,7 @@
 | HeimaoLST | 9 | 9 |
 | Hikitak | 9 | 9 |
 | JackDalberg | 9 | 9 |
+| Johrespi | 9 | 9 |
 | Kosench | 9 | 9 |
 | MYK12397 | 9 | 9 |
 | PolinaSvet | 9 | 9 |
