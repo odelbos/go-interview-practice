@@ -92,6 +92,7 @@
 | john-otienoh | 6 | 6 |
 | jordanhimawan | 6 | 6 |
 | jvllmr | 6 | 6 |
+| kiramux | 6 | 6 |
 | korranat9 | 6 | 6 |
 | krmaxwell | 6 | 6 |
 | krypton-io | 6 | 6 |
