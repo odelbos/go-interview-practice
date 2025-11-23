@@ -63,6 +63,7 @@
 | awsl1110 | 6 | 6 |
 | berikulyBeket | 6 | 6 |
 | berkaykrc | 6 | 6 |
+| berkkaradalan | 6 | 6 |
 | betosmith2000 | 6 | 6 |
 | binoymanoj | 6 | 6 |
 | bmamha | 6 | 6 |
@@ -88,6 +89,7 @@
 | igorek890 | 6 | 6 |
 | ilder | 6 | 6 |
 | ingingX | 6 | 6 |
+| inok94 | 6 | 6 |
 | jasonnfeng | 6 | 6 |
 | jersonzc | 6 | 6 |
 | jin5335 | 6 | 6 |
