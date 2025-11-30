@@ -77,6 +77,7 @@
 | deloz | 6 | 6 |
 | dhevv8 | 6 | 6 |
 | diyorich | 6 | 6 |
+| duplabe | 6 | 6 |
 | eksly | 6 | 6 |
 | elecycele | 6 | 6 |
 | es-codigo | 6 | 6 |
