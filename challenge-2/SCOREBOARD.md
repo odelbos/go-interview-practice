@@ -69,6 +69,7 @@
 | decko | 7 | 7 |
 | deloz | 7 | 7 |
 | dimozavrrrik | 7 | 7 |
+| duplabe | 7 | 7 |
 | eksly | 7 | 7 |
 | elecycele | 7 | 7 |
 | es-codigo | 7 | 7 |
