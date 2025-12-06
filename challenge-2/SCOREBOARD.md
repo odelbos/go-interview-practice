@@ -14,6 +14,7 @@
 | Be1chenok | 7 | 7 |
 | BrianHuang813 | 7 | 7 |
 | Cpoing | 7 | 7 |
+| DaniilYuz | 7 | 7 |
 | Gandook | 7 | 7 |
 | GinVlad | 7 | 7 |
 | Hikitak | 7 | 7 |
