@@ -130,7 +130,7 @@ Master Go packages through hands-on challenges! Each package offers a structured
 | 6 | <img src="https://github.com/q1ngy.png" width="24" height="24" style="border-radius: 50%;"><br/>**[q1ngy](https://github.com/q1ngy)** | **4** | **1** pkg | 🚀 Package Intermediate | **gin**: 4 |
 | 7 | <img src="https://github.com/BrianHuang813.png" width="24" height="24" style="border-radius: 50%;"><br/>**[BrianHuang813](https://github.com/BrianHuang813)** | **3** | **1** pkg | 🚀 Package Intermediate | **gin**: 3 |
 | 8 | <img src="https://github.com/ashwinipatankar.png" width="24" height="24" style="border-radius: 50%;"><br/>**[ashwinipatankar](https://github.com/ashwinipatankar)** ❤️ | **3** | **1** pkg | 🚀 Package Intermediate | **cobra**: 3 |
-| 9 | <img src="https://github.com/aswinsreeraj.png" width="24" height="24" style="border-radius: 50%;"><br/>**[aswinsreeraj](https://github.com/aswinsreeraj)** | **2** | **1** pkg | 🌱 Package Beginner | **gorm**: 2 |
+| 9 | <img src="https://github.com/aswinsreeraj.png" width="24" height="24" style="border-radius: 50%;"><br/>**[aswinsreeraj](https://github.com/aswinsreeraj)** | **3** | **1** pkg | 🚀 Package Intermediate | **gorm**: 3 |
 | 10 | <img src="https://github.com/grozdovk.png" width="24" height="24" style="border-radius: 50%;"><br/>**[grozdovk](https://github.com/grozdovk)** | **2** | **1** pkg | 🌱 Package Beginner | **gorm**: 2 |
 
 <div align="center">
@@ -178,7 +178,7 @@ Master Go packages through hands-on challenges! Each package offers a structured
 | Rank | Developer | Completed | Progress |
 |:---:|:---:|:---:|:---|
 | 🥇 | **[odelbos](https://github.com/odelbos)** | 5/5 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 100% |
-| 🥈 | **[aswinsreeraj](https://github.com/aswinsreeraj)** | 2/5 | 🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜ 40% |
+| 🥈 | **[aswinsreeraj](https://github.com/aswinsreeraj)** | 3/5 | 🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜ 60% |
 | 🥉 | **[grozdovk](https://github.com/grozdovk)** | 2/5 | 🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜ 40% |
 | 4 | **[22-7-co](https://github.com/22-7-co)** | 1/5 | 🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜ 20% |
 | 5 | **[Relief-chat](https://github.com/Relief-chat)** | 1/5 | 🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜ 20% |
