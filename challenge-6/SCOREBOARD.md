@@ -37,6 +37,7 @@
 | berkaykrc | 7 | 7 |
 | binoymanoj | 7 | 7 |
 | bmamha | 7 | 7 |
+| duplabe | 7 | 7 |
 | grozdovk | 7 | 7 |
 | himanshum9 | 7 | 7 |
 | hudazaan | 7 | 7 |
@@ -63,6 +64,7 @@
 | rodney-b | 7 | 7 |
 | rohit-jangra-dx | 7 | 7 |
 | skx | 7 | 7 |
+| suensky | 7 | 7 |
 | sultaAann | 7 | 7 |
 | t4e1 | 7 | 7 |
 | timlkko | 7 | 7 |
