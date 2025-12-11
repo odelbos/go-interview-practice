@@ -484,6 +484,21 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
   </table>
 </div>
 
+### 🥉 Bronze Sponsors
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://sentry.io" target="_blank">
+          <img src="https://github.com/sentry.png" alt="Sentry" width="80" height="80" style="border-radius: 20px; border: 2px solid #e1e5e9;">
+        </a>
+        <br>
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 ###### Interested in premium sponsorship? [Contact us](https://github.com/sponsors/RezaSi) to feature your company logo here and on our platform!
 
