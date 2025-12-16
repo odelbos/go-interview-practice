@@ -1,6 +1,7 @@
 # Scoreboard for challenge-6
 | Username   | Passed Tests | Total Tests |
 |------------|--------------|-------------|
+| 0xtrooper | 7 | 7 |
 | 4m4x | 7 | 7 |
 | AkifhanIlgaz | 7 | 7 |
 | AlexO-85 | 7 | 7 |
@@ -17,6 +18,7 @@
 | JarhsonNing | 7 | 7 |
 | Johrespi | 7 | 7 |
 | JunLog | 7 | 7 |
+| Khabbab172 | 7 | 7 |
 | KhaledMosaad | 7 | 7 |
 | Kosench | 7 | 7 |
 | MYK12397 | 7 | 7 |
