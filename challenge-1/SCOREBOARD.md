@@ -3,6 +3,7 @@
 |------------|--------------|-------------|
 | 0xJaskirat | 6 | 6 |
 | 0xarash | 6 | 6 |
+| 0xtrooper | 6 | 6 |
 | 4592adarsh | 6 | 6 |
 | 4m4x | 6 | 6 |
 | ADEMOLA200 | 6 | 6 |
@@ -31,6 +32,7 @@
 | K1tten2005 | 6 | 6 |
 | KaiserKun | 6 | 6 |
 | Kesha005 | 6 | 6 |
+| Khabbab172 | 6 | 6 |
 | KhaledMosaad | 6 | 6 |
 | KirthiInfra | 6 | 6 |
 | Kosench | 6 | 6 |
