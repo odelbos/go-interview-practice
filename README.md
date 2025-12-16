@@ -484,7 +484,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
   </table>
 </div>
 
-### 🥉 Bronze Sponsors
+### 🏗️ Infrastructure Sponsors
 
 <div align="center">
   <table>
