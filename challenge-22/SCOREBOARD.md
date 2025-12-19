@@ -1,11 +1,13 @@
 # Scoreboard for challenge-22
 | Username   | Passed Tests | Total Tests |
 |------------|--------------|-------------|
+| 0xtrooper | 23 | 23 |
 | 22-7-co | 23 | 23 |
 | AlexO-85 | 23 | 23 |
 | Ali-Fartoot | 23 | 23 |
 | Be1chenok | 23 | 23 |
 | BrianHuang813 | 23 | 23 |
+| BroQi | 23 | 23 |
 | Gandook | 23 | 23 |
 | Hikitak | 23 | 23 |
 | JackDalberg | 23 | 23 |

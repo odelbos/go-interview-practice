@@ -1,6 +1,7 @@
 # Scoreboard for challenge-6
 | Username   | Passed Tests | Total Tests |
 |------------|--------------|-------------|
+| 0xtrooper | 7 | 7 |
 | 4m4x | 7 | 7 |
 | AkifhanIlgaz | 7 | 7 |
 | AlexO-85 | 7 | 7 |
@@ -17,6 +18,7 @@
 | JarhsonNing | 7 | 7 |
 | Johrespi | 7 | 7 |
 | JunLog | 7 | 7 |
+| Khabbab172 | 7 | 7 |
 | KhaledMosaad | 7 | 7 |
 | Kosench | 7 | 7 |
 | MYK12397 | 7 | 7 |
@@ -37,11 +39,13 @@
 | berkaykrc | 7 | 7 |
 | binoymanoj | 7 | 7 |
 | bmamha | 7 | 7 |
+| duplabe | 7 | 7 |
 | grozdovk | 7 | 7 |
 | himanshum9 | 7 | 7 |
 | hudazaan | 7 | 7 |
 | idk2me | 7 | 7 |
 | igorek890 | 7 | 7 |
+| inok94 | 7 | 7 |
 | jasonnfeng | 7 | 7 |
 | jersonzc | 7 | 7 |
 | john-otienoh | 7 | 7 |
@@ -63,6 +67,7 @@
 | rodney-b | 7 | 7 |
 | rohit-jangra-dx | 7 | 7 |
 | skx | 7 | 7 |
+| suensky | 7 | 7 |
 | sultaAann | 7 | 7 |
 | t4e1 | 7 | 7 |
 | timlkko | 7 | 7 |

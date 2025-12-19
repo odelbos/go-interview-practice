@@ -2,6 +2,7 @@
 | Username   | Passed Tests | Total Tests |
 |------------|--------------|-------------|
 | Ali-Fartoot | 54 | 54 |
+| BroQi | 54 | 54 |
 | Cpoing | 54 | 54 |
 | Gandook | 54 | 54 |
 | Hikitak | 54 | 54 |

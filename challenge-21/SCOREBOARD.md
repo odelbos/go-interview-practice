@@ -1,9 +1,12 @@
 # Scoreboard for challenge-21
 | Username   | Passed Tests | Total Tests |
 |------------|--------------|-------------|
+| 0xtrooper | 35 | 35 |
+| 4m4x | 35 | 35 |
 | Ali-Fartoot | 35 | 35 |
 | Be1chenok | 35 | 35 |
 | BrianHuang813 | 35 | 35 |
+| BroQi | 35 | 35 |
 | Cpoing | 35 | 35 |
 | Gandook | 35 | 35 |
 | GinVlad | 35 | 35 |
@@ -22,6 +25,8 @@
 | akolpakov-somehash | 35 | 35 |
 | awsl1110 | 35 | 35 |
 | binoymanoj | 35 | 35 |
+| cckwes | 35 | 35 |
+| duplabe | 35 | 35 |
 | grozdovk | 35 | 35 |
 | himanshum9 | 35 | 35 |
 | hodgechung | 35 | 35 |
@@ -47,5 +52,6 @@
 | tmsankaram | 35 | 35 |
 | wxai2324 | 35 | 35 |
 | y1hao | 35 | 35 |
+| yz4230 | 35 | 35 |
 | ashwinipatankar | 33 | 35 |
 | VFarsiyants | 24 | 26 |

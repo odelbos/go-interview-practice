@@ -3,6 +3,7 @@
 |------------|--------------|-------------|
 | 0xJaskirat | 6 | 6 |
 | 0xarash | 6 | 6 |
+| 0xtrooper | 6 | 6 |
 | 4592adarsh | 6 | 6 |
 | 4m4x | 6 | 6 |
 | ADEMOLA200 | 6 | 6 |
@@ -17,6 +18,7 @@
 | Be1chenok | 6 | 6 |
 | BrianHuang813 | 6 | 6 |
 | Cpoing | 6 | 6 |
+| DaniilYuz | 6 | 6 |
 | Dhar01 | 6 | 6 |
 | Gandook | 6 | 6 |
 | GinVlad | 6 | 6 |
@@ -30,6 +32,7 @@
 | K1tten2005 | 6 | 6 |
 | KaiserKun | 6 | 6 |
 | Kesha005 | 6 | 6 |
+| Khabbab172 | 6 | 6 |
 | KhaledMosaad | 6 | 6 |
 | KirthiInfra | 6 | 6 |
 | Kosench | 6 | 6 |
@@ -39,7 +42,9 @@
 | Mamsheikh | 6 | 6 |
 | Mersad-Moghaddam | 6 | 6 |
 | MuraliMohan-2000 | 6 | 6 |
+| Mwazowsky | 6 | 6 |
 | PolinaSvet | 6 | 6 |
+| RP-Guruh | 6 | 6 |
 | RezaSi | 6 | 6 |
 | Sahillather002 | 6 | 6 |
 | Sairaviteja27 | 6 | 6 |
@@ -62,7 +67,9 @@
 | arslanoktay | 6 | 6 |
 | aseifi880 | 6 | 6 |
 | ashwinipatankar | 6 | 6 |
+| aswinsreeraj | 6 | 6 |
 | awsl1110 | 6 | 6 |
+| benvdh | 6 | 6 |
 | berikulyBeket | 6 | 6 |
 | berkaykrc | 6 | 6 |
 | berkkaradalan | 6 | 6 |
@@ -70,6 +77,8 @@
 | binoymanoj | 6 | 6 |
 | bmamha | 6 | 6 |
 | bmeverett | 6 | 6 |
+| brenoamin | 6 | 6 |
+| cckwes | 6 | 6 |
 | cep-ter | 6 | 6 |
 | chandimab | 6 | 6 |
 | chenyao0910 | 6 | 6 |
@@ -114,6 +123,7 @@
 | lawira | 6 | 6 |
 | lesiona-z | 6 | 6 |
 | levwap | 6 | 6 |
+| liquiid727 | 6 | 6 |
 | lostzoo | 6 | 6 |
 | lyb88999 | 6 | 6 |
 | macborowy | 6 | 6 |
