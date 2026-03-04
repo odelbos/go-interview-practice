@@ -1,6 +1,7 @@
 # Scoreboard for challenge-3
 | Username   | Passed Tests | Total Tests |
 |------------|--------------|-------------|
+| 0xtrooper | 5 | 5 |
 | 4m4x | 5 | 5 |
 | ADEMOLA200 | 5 | 5 |
 | AkifhanIlgaz | 5 | 5 |
@@ -23,10 +24,13 @@
 | KaiserKun | 5 | 5 |
 | KhaledMosaad | 5 | 5 |
 | Kosench | 5 | 5 |
+| LouisChen-TW | 5 | 5 |
 | MYK12397 | 5 | 5 |
+| Mayankjustdial | 5 | 5 |
 | MiladJlz | 5 | 5 |
 | MuraliMohan-2000 | 5 | 5 |
 | PolinaSvet | 5 | 5 |
+| PsGov | 5 | 5 |
 | RezaSi | 5 | 5 |
 | Sahillather002 | 5 | 5 |
 | Sairaviteja27 | 5 | 5 |
@@ -37,12 +41,14 @@
 | YounesBouchbouk | 5 | 5 |
 | Z4za01 | 5 | 5 |
 | ZaharBorisenko | 5 | 5 |
+| affandisy | 5 | 5 |
 | ahmedpyarali2 | 5 | 5 |
 | anotnow | 5 | 5 |
 | ansmonjol | 5 | 5 |
 | aseifi880 | 5 | 5 |
 | ashwinipatankar | 5 | 5 |
 | awsl1110 | 5 | 5 |
+| azs0309 | 5 | 5 |
 | baindraraj | 5 | 5 |
 | berkaykrc | 5 | 5 |
 | berkkaradalan | 5 | 5 |
@@ -53,6 +59,7 @@
 | duplabe | 5 | 5 |
 | eksly | 5 | 5 |
 | elecycele | 5 | 5 |
+| goholic | 5 | 5 |
 | greenfivebird | 5 | 5 |
 | grozdovk | 5 | 5 |
 | himanshum9 | 5 | 5 |
@@ -64,11 +71,14 @@
 | ilder | 5 | 5 |
 | ingingX | 5 | 5 |
 | inok94 | 5 | 5 |
+| ismarinated | 5 | 5 |
 | jasonnfeng | 5 | 5 |
+| jeffreyyjp | 5 | 5 |
 | jersonzc | 5 | 5 |
 | jin5335 | 5 | 5 |
 | john-otienoh | 5 | 5 |
 | jordanhimawan | 5 | 5 |
+| jrab66 | 5 | 5 |
 | kiramux | 5 | 5 |
 | korranat9 | 5 | 5 |
 | krmaxwell | 5 | 5 |
@@ -78,9 +88,12 @@
 | lanmanul | 5 | 5 |
 | lyb88999 | 5 | 5 |
 | macborowy | 5 | 5 |
+| maikreyes | 5 | 5 |
+| maket12 | 5 | 5 |
 | manish-npx | 5 | 5 |
 | mayconvm | 5 | 5 |
 | mczajk | 5 | 5 |
+| mellojp | 5 | 5 |
 | mick4711 | 5 | 5 |
 | mjays188 | 5 | 5 |
 | muhammedkucukaslan | 5 | 5 |
@@ -89,6 +102,7 @@
 | nosrio | 5 | 5 |
 | nzamulov | 5 | 5 |
 | odelbos | 5 | 5 |
+| pannawit2541 | 5 | 5 |
 | perekoshik | 5 | 5 |
 | preetsinghmakkar | 5 | 5 |
 | richcem | 5 | 5 |
